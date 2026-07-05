@@ -4,7 +4,7 @@ A fast-paced, side-scrolling endless runner game built with vanilla JavaScript a
 
 ## Live Demo
 
-[Play the game on Vercel](https://police-chase.vercel.app)
+[Play the game on Vercel](https://police-chase-two.vercel.app)
 
 ## Gameplay
 
